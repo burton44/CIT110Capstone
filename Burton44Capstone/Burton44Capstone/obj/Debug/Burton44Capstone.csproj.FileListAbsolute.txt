@@ -1,0 +1,7 @@
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\bin\Debug\Burton44Capstone.exe.config
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\bin\Debug\Burton44Capstone.exe
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\bin\Debug\Burton44Capstone.pdb
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\obj\Debug\Burton44Capstone.csprojAssemblyReference.cache
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\obj\Debug\Burton44Capstone.csproj.CoreCompileInputs.cache
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\obj\Debug\Burton44Capstone.exe
+E:\CIT110\CapstoneProject\Burton44Capstone\Burton44Capstone\obj\Debug\Burton44Capstone.pdb
